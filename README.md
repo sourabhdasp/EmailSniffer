@@ -52,7 +52,7 @@ Before running **GmailFinder**, you need to have Python 3.x installed on your co
 3. **Run the application**:
    After installing the dependencies, you can run the application with:
    ```bash
-   python gmail_finder.py
+   python EmailSniffer.py
    ```
 
 ---
