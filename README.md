@@ -1,10 +1,4 @@
 # EmailSniffer
-GmailFinder is a simple yet powerful Python tool that helps you easily extract Gmail addresses from any public website. Whether you're gathering emails for research, marketing, or data scraping, this tool saves time by automatically searching and retrieving Gmail addresses from webpage content
-Here's a detailed and well-structured `README.md` file for your **GmailFinder** project. This file provides clear instructions and covers all important aspects of the project:
-
----
-
-# GmailFinder
 
 **GmailFinder** is a Python tool that allows you to easily extract Gmail addresses from any public website. This tool can be used for web scraping, email research, or data gathering. With a simple and user-friendly interface built using Tkinter, GmailFinder makes it easy to find Gmail addresses from web pages.
 
