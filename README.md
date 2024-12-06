@@ -34,7 +34,7 @@ Before running **GmailFinder**, you need to have Python 3.x installed on your co
 1. **Clone the repository**:
    Open your terminal or command prompt and run:
    ```bash
-   git clone https://github.com/your-username/GmailFinder.git
+   git clone https://github.com/sourabhdasp/EmailSniffer.git
    ```
 
 2. **Install dependencies**:
